@@ -17,4 +17,8 @@ npx tsc --init --outDir dist/ --rootDir src
 ```
 
 4. Clonar .env.template y crear .env
-5. Ejecutar ```docker compose up -d````
+
+5. Ejecutar
+ ```
+ docker compose up -d`
+ ```
